@@ -50,7 +50,7 @@ function calculate(){
 			var username=prompt("Identifiant :");
 			var password=prompt("Mot de passe :");
 		if (username==="Admin_GSB" && password==="admin"){
-			document.location.href="index.html";
+			document.location.href="PDF.html";
 		}
 		else
 			{ alert("Identifiant ou mot de passe incorrects")}
