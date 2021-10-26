@@ -136,6 +136,7 @@ table .calcul input
 	float: right;
 	text-align: right;
 	width: 95%;
+	display: block;
 
 }
 table .calcul_S input
@@ -145,16 +146,18 @@ table .calcul_S input
 	text-align: right;
 	background-color: transparent;
 	margin-right: 1px;
+	display: block;
 
 }
 table.solde
 {
 	float: right;
 	font-size: 18px;
-	background-color: lightsalmon;
+	background-color: #FAD7A0;
 	font-weight: bold;
 	border-bottom: 2px solid black;
 	border-top: 2px solid black;
+	display: block;
 
 }
 
